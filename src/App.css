@@ -12,3 +12,12 @@
   align-items: center;
   font-size: 40px;
 }
+
+.drop-area {
+  width: 80vw;
+  height: 80vh;
+  border: 5px dashed black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
